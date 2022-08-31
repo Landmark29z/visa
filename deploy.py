@@ -4,4 +4,4 @@
 echo DevOps
 
 #python script
-python('DevOps')
+print('DevOps')
